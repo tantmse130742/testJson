@@ -1,18 +1,8 @@
+  
 {
-    {
-      "id": 1,
-      "name": "tan123"
-    },
-    {
-      "id": 2,
-      "name": "tan456"
-    }, 
-    {
-      "id": 3,
-      "name": "tan789"
-    },
-    {
-      "id": 4,
-      "name": "tan101"
-    },
+  "user": [
+    { "id": 1, "name": "tan" },
+    { "id": 2, "name": "tan1" },
+    { "id": 3, "name": "tan2" }
+  ]
 }
