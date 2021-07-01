@@ -1,11 +1,21 @@
 {
-  "posts": [
+  "user": [
     {
       "id": 1,
-      "title": "hello"
-    }
+      "name": "tan123"
+    },
+    {
+      "id": 2,
+      "name": "tan456"
+    }, 
+    {
+      "id": 3,
+      "name": "tan789"
+    },
+    {
+      "id": 4,
+      "name": "tan101"
+    },
   ],
-  "profile": {
-    "name": "typicode"
-  }
+ 
 }
